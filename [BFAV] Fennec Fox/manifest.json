@@ -6,11 +6,6 @@
   "UniqueID": "Neonify.BFAVFennec",
   "MinimumApiVersion": "3.0.1",
   "UpdateKeys": [ "Nexus:4487"],
-  "Dependencies": [
-   {
-      "UniqueID": "spacechase0.JsonAssets",
-   }
-],
   "ContentPackFor": {
     "UniqueID": "Paritee.BetterFarmAnimalVariety"
   }
