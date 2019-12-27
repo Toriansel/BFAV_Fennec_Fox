@@ -64,9 +64,6 @@
 				"OutputIdentifier":"Rhubarb Seeds",
 				},
 		],
-		"Sounds": ["coin"],
-		"PlacingAnimation": null,
-		"PlacingAnimationColorName": "White"
 	},
 	{
 		"ProducerName": "Recycling Machine", 
@@ -118,8 +115,5 @@
 				"OutputIdentifier": "Bone Flute",
 				},
 		],
-		"Sounds": ["coin"],
-		"PlacingAnimation": null,
-		"PlacingAnimationColorName": "White"
 	}
 ]
