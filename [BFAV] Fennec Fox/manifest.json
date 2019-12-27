@@ -1,17 +1,14 @@
 {
   "Name": "BFAV Fennec Foxes",
   "Author": "Neonify",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Adds fennec foxes as a BFAV barn animal",
   "UniqueID": "Neonify.BFAVFennec",
-  "MinimumApiVersion": "2.5",
+  "MinimumApiVersion": "3.0.1",
   "UpdateKeys": [ "Nexus:4487"],
   "Dependencies": [
    {
       "UniqueID": "spacechase0.JsonAssets",
-   },
-   {
-      "UniqueID": "Paritee.BetterFarmAnimalVariety",
    }
 ],
   "ContentPackFor": {
