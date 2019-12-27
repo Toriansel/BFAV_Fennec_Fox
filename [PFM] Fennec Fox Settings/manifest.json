@@ -1,11 +1,11 @@
 ﻿{
-	"Name": "[PFM] Raccoons Settings",
-	"Author": "TrentXV",
-	"Version": "1.0.0",
-	"Description": "Adds producing rules Raccoon Loots in recycling machines.",
-	"UniqueID": "Raccoons.MachineSetting",
-	"MinimumApiVersion": "3.0.0",
-	"UpdateKeys": [],
+	"Name": "[PFM] Fennec Fox Settings",
+	"Author": "Neonify",
+	"Version": "1.0.1",
+	"Description": "Adds producing rules Fennec Fox items in recycling machines.",
+	"UniqueID": "Neonify.PFMFennec",
+	"MinimumApiVersion": "3.0.1",
+	"UpdateKeys": [ "Nexus:4487" ],
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.ProducerFrameworkMod"
 	}
