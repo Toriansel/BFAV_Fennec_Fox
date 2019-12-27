@@ -76,43 +76,43 @@
 		"OutputMaxStack": 1,
 		"AdditionalOutputs": [ 
 				{
-				"OutputIdentifier": "Strange Doll (green)",
+				"OutputIdentifier":"Strange Doll (green)",
 				},
 				{
-				"OutputIdentifier": "Strange Doll (yellow)",
+				"OutputIdentifier":"Strange Doll (yellow)",
 				},
 				{
-				"OutputIdentifier": "Golden Mask",
+				"OutputIdentifier":"Golden Mask",
 				},
 				{
-				"OutputIdentifier": "Dinosaur Egg",
+				"OutputIdentifier":"Dinosaur Egg",
 				},
 				{
-				"OutputIdentifier": "Ornamental Fan",
+				"OutputIdentifier":"Ornamental Fan",
 				},
 				{
-				"OutputIdentifier": "Rare Disc",
+				"OutputIdentifier":"Rare Disc",
 				},
 				{
-				"OutputIdentifier": "Golden Relic",
+				"OutputIdentifier":"Golden Relic",
 				},
 				{
-				"OutputIdentifier": "Elvish Jewelry",
+				"OutputIdentifier":"Elvish Jewelry",
 				},
 				{
-				"OutputIdentifier": "Dwarf Gadget",
+				"OutputIdentifier":"Dwarf Gadget",
 				},
 				{
-				"OutputIdentifier": "Amphibian Fossil",
+				"OutputIdentifier":"Amphibian Fossil",
 				},
 				{
-				"OutputIdentifier": "Ancient Sword",
+				"OutputIdentifier":"Ancient Sword",
 				},
 				{
-				"OutputIdentifier": "Anchor",
+				"OutputIdentifier":"Anchor",
 				},
 				{
-				"OutputIdentifier": "Bone Flute",
+				"OutputIdentifier":"Bone Flute",
 				},
 		],
 	}
