@@ -1,10 +1,10 @@
 {
   "Name": "Fennec Fox Items",
   "Author": "Neonify",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Adds the BFAV Fennex Fox animal products.",
   "UniqueID": "Neonify.FennecFoxItems",
-  "MinimumApiVersion": "2.11.0",
+  "MinimumApiVersion": "3.0.1",
   "UpdateKeys": ["Nexus:4487"],
   "ContentPackFor": {
     	"UniqueID": "spacechase0.JsonAssets"
