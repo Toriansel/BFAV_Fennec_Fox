@@ -3,84 +3,65 @@
 		"ProducerName": "Recycling Machine", 
 		"InputIdentifier": "Fox Treasure", 
 		"InputStack": 1, 
-		"MinutesUntilReady": 100,
-		"OutputIdentifier": "Coffee",
+		"MinutesUntilReady": 120,
 		"KeepInputQuanlity": false, 
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"OutputMaxStack": 1,
 		"AdditionalOutputs": [ 
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Amethyst",
+				"OutputIdentifier":"Jazz Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Blackberry Cobbler",
+				"OutputIdentifier":"Amaranth Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Chocolate Cake",
+				"OutputIdentifier":"Grape Starter",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Pufferfish",
+				"OutputIdentifier":"Hops Starter",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Pumpkin",
+				"OutputIdentifier":"Fairy Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Spicy Eel",
+				"OutputIdentifier":"Tulip Bulb",
 				},
 				{
-				"OutputProbability": 0.05,
 				"OutputIdentifier":"Pickles",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Super Meal",
+				"OutputIdentifier":"Sunflower Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Truffle Oil",
+				"OutputIdentifier":"Coffee Bean",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Wine",
+				"OutputIdentifier":"Poppy Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Fish Taco",
+				"OutputIdentifier":"Spangle Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Green Tea",
+				"OutputIdentifier":"Parsnip Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Summer Spangle",
+				"OutputIdentifier":"Bean Starter",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Diamond",
+				"OutputIdentifier":"Cauliflower Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Escargot",
+				"OutputIdentifier":"Potato Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Fish Taco",
+				"OutputIdentifier":"Garlic Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Orange",
+				"OutputIdentifier":"Kale Seeds",
 				},
 				{
-				"OutputProbability": 0.05,
-				"OutputIdentifier":"Fried Calamari",
+				"OutputIdentifier":"Rhubarb Seeds",
 				},
 		],
 		"Sounds": ["coin"],
@@ -91,112 +72,50 @@
 		"ProducerName": "Recycling Machine", 
 		"InputIdentifier": "Mysterious Artifact", 
 		"InputStack": 1, 
-		"MinutesUntilReady": 100,
-		"OutputIdentifier": "Iridium Bar",
+		"MinutesUntilReady": 120,
 		"KeepInputQuanlity": false, 
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"OutputMaxStack": 1,
 		"AdditionalOutputs": [ 
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 84,
+				"OutputIdentifier": "Strange Doll (green)",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 575,
+				"OutputIdentifier": "Strange Doll (yellow)",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 236,
+				"OutputIdentifier": "Golden Mask",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 227,
+				"OutputIdentifier": "Dinosaur Egg",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 305,
+				"OutputIdentifier": "Ornamental Fan",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 787,
+				"OutputIdentifier": "Rare Disc",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 190,
+				"OutputIdentifier": "Golden Relic",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 197,
+				"OutputIdentifier": "Elvish Jewelry",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 72,
+				"OutputIdentifier": "Dwarf Gadget",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 336,
+				"OutputIdentifier": "Amphibian Fossil",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 243,
+				"OutputIdentifier": "Ancient Sword",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": "Pepper Poppers",
+				"OutputIdentifier": "Anchor",
 				},
 				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": "Rhubarb Pie",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": "Strawberry",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": "Bean Hotpot",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": "Ice Cream",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Rice Pudding",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Blueberry Tart",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Cactus Fruit",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Coconut",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier": 242,
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Yam",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Goat Cheese",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Peach",
-				},
-				{
-				"OutputProbability": 0.0368,
-				"OutputIdentifier":"Spaghetti",
+				"OutputIdentifier": "Bone Flute",
 				},
 		],
 		"Sounds": ["coin"],
