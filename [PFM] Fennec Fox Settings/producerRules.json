@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"ProducerName": "Recycling Machine", 
 		"InputIdentifier": "Fox Treasure", 
@@ -62,6 +62,69 @@
 				},
 				{
 				"OutputIdentifier":"Rhubarb Seeds",
+				},
+				{
+				"OutputIdentifier":"Melon Seeds",
+				},
+				{
+				"OutputIdentifier":"Tomato Seeds",
+				},
+				{
+				"OutputIdentifier":"Blueberry Seeds",
+				},
+				{
+				"OutputIdentifier":"Pepper Seeds",
+				},
+				{
+				"OutputIdentifier":"Wheat Seeds",
+				},
+				{
+				"OutputIdentifier":"Radish Seeds",
+				},
+				{
+				"OutputIdentifier":"Red Cabbage Seeds",
+				},
+				{
+				"OutputIdentifier":"Corn Seeds",
+				},
+				{
+				"OutputIdentifier":"Eggplant Seeds",
+				},
+				{
+				"OutputIdentifier":"Artichoke Seeds",
+				},
+				{
+				"OutputIdentifier":"Pumpkin Seeds",
+				},
+				{
+				"OutputIdentifier":"Bok Choy Seeds",
+				},
+				{
+				"OutputIdentifier":"Yam Seeds",
+				},
+				{
+				"OutputIdentifier":"Cranberry Seeds",
+				},
+				{
+				"OutputIdentifier":"Beet Seeds",
+				},
+				{
+				"OutputIdentifier":"Spring Seeds",
+				},
+				{
+				"OutputIdentifier":"Summer Seeds",
+				},
+				{
+				"OutputIdentifier":"Fall Seeds",
+				},
+				{
+				"OutputIdentifier":"Winter Seeds",
+				},
+				{
+				"OutputIdentifier":"Strawberry Seeds",
+				},
+				{
+				"OutputIdentifier":"Cactus Seeds",
 				},
 		],
 	},
