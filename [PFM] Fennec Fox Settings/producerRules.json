@@ -8,7 +8,16 @@
 		"OutputQuality": 0,
 		"OutputStack": 1,
 		"OutputMaxStack": 1,
-		"AdditionalOutputs": [ 
+		"AdditionalOutputs": [
+				{
+				"OutputIdentifier":"Rare Seed",
+				},
+				{
+				"OutputIdentifier":"Ancient Seeds",
+				},
+				{
+				"OutputIdentifier":"Starfruit Seeds",
+				},
 				{
 				"OutputIdentifier":"Jazz Seeds",
 				},
