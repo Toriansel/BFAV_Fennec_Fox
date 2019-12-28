@@ -11,12 +11,15 @@
 		"AdditionalOutputs": [
 				{
 				"OutputIdentifier":"Rare Seed",
+				"GoldQualityInput": {"Probability": .33,},
 				},
 				{
 				"OutputIdentifier":"Ancient Seeds",
+				"GoldQualityInput": {"Probability": .33,},
 				},
 				{
 				"OutputIdentifier":"Starfruit Seeds",
+				"GoldQualityInput": {"Probability": .34,},
 				},
 				{
 				"OutputIdentifier":"Jazz Seeds",
