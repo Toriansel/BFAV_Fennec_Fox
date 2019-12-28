@@ -152,33 +152,43 @@
 		"AdditionalOutputs": [ 
 				{
 				"OutputIdentifier":"Strange Doll (green)",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Strange Doll (yellow)",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Golden Mask",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Dinosaur Egg",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Ornamental Fan",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Rare Disc",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Golden Relic",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Elvish Jewelry",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Dwarf Gadget",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Amphibian Fossil",
+				"GoldQualityInput": {"Probability": .1,},
 				},
 				{
 				"OutputIdentifier":"Ancient Sword",
