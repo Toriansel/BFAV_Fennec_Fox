@@ -11,15 +11,15 @@
 		"AdditionalOutputs": [
 				{
 				"OutputIdentifier":"Rare Seed",
-				"GoldQualityInput": {"Probability": .33,},
+				"GoldQualityInput": {"Probability": 0.33,},
 				},
 				{
 				"OutputIdentifier":"Ancient Seeds",
-				"GoldQualityInput": {"Probability": .33,},
+				"GoldQualityInput": {"Probability": 0.33,},
 				},
 				{
 				"OutputIdentifier":"Starfruit Seeds",
-				"GoldQualityInput": {"Probability": .34,},
+				"GoldQualityInput": {"Probability": 0.34,},
 				},
 				{
 				"OutputIdentifier":"Jazz Seeds",
@@ -152,43 +152,43 @@
 		"AdditionalOutputs": [ 
 				{
 				"OutputIdentifier":"Strange Doll (green)",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Strange Doll (yellow)",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Golden Mask",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Dinosaur Egg",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Ornamental Fan",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Rare Disc",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Golden Relic",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Elvish Jewelry",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Dwarf Gadget",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Amphibian Fossil",
-				"GoldQualityInput": {"Probability": .1,},
+				"GoldQualityInput": {"Probability": 0.1,},
 				},
 				{
 				"OutputIdentifier":"Ancient Sword",
