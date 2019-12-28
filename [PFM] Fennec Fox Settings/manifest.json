@@ -1,4 +1,4 @@
-﻿{
+{
 	"Name": "[PFM] Fennec Fox Settings",
 	"Author": "Neonify",
 	"Version": "1.0.1",
@@ -6,6 +6,10 @@
 	"UniqueID": "Neonify.PFMFennec",
 	"MinimumApiVersion": "3.0.1",
 	"UpdateKeys": [ "Nexus:4487" ],
+	"Dependencies": [
+		{ "UniqueID": "Digus.ProducerFrameworkMod", "MinimumVersion": "1.1.0" },
+		{ "UniqueID": "6480.crops.arabidopsis"}
+	],
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.ProducerFrameworkMod"
 	}
